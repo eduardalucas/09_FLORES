@@ -1,0 +1,63 @@
+<style type="text/css">
+
+      #p2 {
+        color: olive;
+        font-family: "Courier New", Courier, monospace;
+        text-align: center;
+      }
+
+      .c2 {
+        background: yellowgreen;
+        color: white;
+        font-family: "Gill Sans Extrabold", Helvetica, sans-serif;
+        text-align: center;
+      }
+
+      #u2 {
+        color: hotpink;
+        font-family: "Courier New", Courier, monospace;
+        text-align: center;
+      }
+
+      .a2 {
+        color:  olive;
+        font-family: "Courier New", Courier, monospace;
+        text-align: left;
+      }
+
+      .a2:hover{
+        color: darkgreen;
+      }
+
+      div{
+        font-family: "Courier New", Courier, monospace;
+        display: inline-block;
+        text-align: center;
+        height: 100px;
+        width: 100px;
+      }
+
+      div#d1 {
+        background-color: beige;
+        border: 1px solid rosybrown;
+        color: rosybrown;
+      }
+
+      div#d2 {
+        background-color: lightpink;
+        border: 1px solid deeppink;
+        color: deeppink;
+      }
+
+      div#d3 {
+        background-color: lightblue;
+        border: 1px solid blueviolet;
+        color: blueviolet;
+      }
+
+      .i2{
+        width: 200px;
+        height: 200px;
+      }
+
+    </style>
